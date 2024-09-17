@@ -5,8 +5,11 @@
 This repository contains Power BI dashboards for the following projects
 
 **1. AdventureWorks Project.**
+
 **2. Data professional survery**
+
 **3. Google playstore**
+
 **4. Supermarket sales project**
 
 ## Features
